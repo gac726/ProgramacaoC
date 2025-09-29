@@ -34,7 +34,7 @@ printf ("Estado: %s - Código: %s - NomeDaCidade: %s \n" , Estado, Código, Nome
 printf ("População: %d - NúmeroDePontosTuristicos: %d \n",População, NúmeroDePontosTuristicos);
 printf ("Área: %f - PIB: %f \n ",Área,PIB);
 
-#include <stdio.h>
+
 
 int main(){
     int Carta;
